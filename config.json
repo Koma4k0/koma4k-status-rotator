@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_DISCORD_TOKEN",
+  "status_sequence": ["online", "idle", "dnd"],
+  "clear_enabled": true,
+  "clear_interval": 15,
+  "speed_rotator": 5
+}
